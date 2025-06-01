@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533032593269",
+    "project_id": "dinoursal-432b1",
+    "storage_bucket": "dinoursal-432b1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533032593269:android:470a700892a0c5e192153c",
+        "android_client_info": {
+          "package_name": "com.mycompany.dinosaurencyclopedia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBahkbEgyEryjUNoJMZ0eNrhrPjILumvcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
