@@ -166,7 +166,7 @@ class _Trex9WidgetState extends State<Trex9Widget> {
                                                 borderRadius:
                                                     BorderRadius.circular(8.0),
                                                 child: Image.network(
-                                                  'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/dinosaurencyclopedia-fbs27p/assets/9w9dlnzs1cfz/%E3%82%A2%E3%83%B3%E3%82%AD%E3%83%AD%E3%82%B5%E3%82%A6%E3%83%AB%E3%82%B98.png',
+                                                  'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/dinosaurencyclopedia-fbs27p/assets/sm349w6iqk70/%E3%82%AB%E3%83%AB%E3%83%8E%E3%82%BF%E3%82%A6%E3%83%AB%E3%82%B9.png',
                                                   width: double.infinity,
                                                   height: 883.34,
                                                   fit: BoxFit.cover,
@@ -182,7 +182,7 @@ class _Trex9WidgetState extends State<Trex9Widget> {
                                                 borderRadius:
                                                     BorderRadius.circular(8.0),
                                                 child: Image.network(
-                                                  'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/dinosaurencyclopedia-fbs27p/assets/9w9dlnzs1cfz/%E3%82%A2%E3%83%B3%E3%82%AD%E3%83%AD%E3%82%B5%E3%82%A6%E3%83%AB%E3%82%B98.png',
+                                                  'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/dinosaurencyclopedia-fbs27p/assets/sm349w6iqk70/%E3%82%AB%E3%83%AB%E3%83%8E%E3%82%BF%E3%82%A6%E3%83%AB%E3%82%B9.png',
                                                   width: double.infinity,
                                                   height: 355.3,
                                                   fit: BoxFit.cover,

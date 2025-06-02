@@ -166,7 +166,7 @@ class _Trex11WidgetState extends State<Trex11Widget> {
                                                 borderRadius:
                                                     BorderRadius.circular(8.0),
                                                 child: Image.network(
-                                                  'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/dinosaurencyclopedia-fbs27p/assets/9w9dlnzs1cfz/%E3%82%A2%E3%83%B3%E3%82%AD%E3%83%AD%E3%82%B5%E3%82%A6%E3%83%AB%E3%82%B98.png',
+                                                  'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/dinosaurencyclopedia-fbs27p/assets/99x6a039my8d/ChatGPT_Image_2025%E5%B9%B46%E6%9C%882%E6%97%A5_14_57_47.png',
                                                   width: double.infinity,
                                                   height: 883.34,
                                                   fit: BoxFit.cover,
@@ -182,7 +182,7 @@ class _Trex11WidgetState extends State<Trex11Widget> {
                                                 borderRadius:
                                                     BorderRadius.circular(8.0),
                                                 child: Image.network(
-                                                  'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/dinosaurencyclopedia-fbs27p/assets/9w9dlnzs1cfz/%E3%82%A2%E3%83%B3%E3%82%AD%E3%83%AD%E3%82%B5%E3%82%A6%E3%83%AB%E3%82%B98.png',
+                                                  'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/dinosaurencyclopedia-fbs27p/assets/99x6a039my8d/ChatGPT_Image_2025%E5%B9%B46%E6%9C%882%E6%97%A5_14_57_47.png',
                                                   width: double.infinity,
                                                   height: 355.3,
                                                   fit: BoxFit.cover,

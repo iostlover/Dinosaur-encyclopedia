@@ -222,6 +222,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                         Align(
                           alignment: AlignmentDirectional(0.06, -0.55),
                           child: FFButtonWidget(
+                            key: ValueKey('Button_15ac'),
                             onPressed: () async {
                               context.pushNamed(Pteranodon1Widget.routeName);
                             },
@@ -268,6 +269,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                         Align(
                           alignment: AlignmentDirectional(0.05, -0.08),
                           child: FFButtonWidget(
+                            key: ValueKey('Button_vznc'),
                             onPressed: () async {
                               context.pushNamed(Trex1Widget.routeName);
                             },
@@ -314,6 +316,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                         Align(
                           alignment: AlignmentDirectional(0.02, 0.36),
                           child: FFButtonWidget(
+                            key: ValueKey('Button_hm3m'),
                             onPressed: () async {
                               context.pushNamed(Ple1Widget.routeName);
                             },
